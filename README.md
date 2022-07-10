@@ -14,3 +14,7 @@ heroku run DISABLE_DATABASE_ENVIRONMENT_CHECK=1 rails db:drop db:create db:migra
 rails g device user(モデル名）
 ⇨deviceに関するモデルを作成するときに使う
 （ルーテｲングとマイグレーションファイルも一緒にできる）
+
+
+binding.pry
+⇨処理を止める
