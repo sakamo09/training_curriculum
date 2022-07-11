@@ -18,3 +18,6 @@ rails g device user(モデル名）
 
 binding.pry
 ⇨処理を止める
+
+bundle install
+⇨Gemを記述したら必ず実行する
