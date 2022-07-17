@@ -12,7 +12,8 @@ heroku config
 ⇨ヘロクの環境変数一覧が見れるコマンド
 
 
-
+rails g model モデル名(単数系）
+⇨モデルを作成するコマンド
 
 rails g device user(モデル名）
 ⇨deviceに関するモデルを作成するときに使う
