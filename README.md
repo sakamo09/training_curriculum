@@ -15,6 +15,9 @@ heroku config
 rails g model モデル名(単数系）
 ⇨モデルを作成するコマンド
 
+rails g controller コントローラー名（複数形）
+⇨コントローラーを作成するコマンド
+
 rails g device user(モデル名）
 ⇨deviceに関するモデルを作成するときに使う
 （ルーテｲングとマイグレーションファイルも一緒にできる）
