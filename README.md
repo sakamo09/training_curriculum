@@ -28,6 +28,10 @@ rails g device user(モデル名）
 rails d ファイルの種類 削除するファイル名
 ⇨コントローラーを消すコマンド
 
+rails db:migrate:status
+⇨マイグレーションファイルの状況を確認するコマンド
+
+
 
 binding.pry
 ⇨処理を止める
